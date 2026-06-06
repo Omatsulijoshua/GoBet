@@ -1,2 +1,2 @@
 # GoBet
-a blockchain betting platform
+a betting platform
